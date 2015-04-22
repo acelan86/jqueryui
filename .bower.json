@@ -3,7 +3,7 @@
   "version": "1.11.4",
   "main": [
     "jquery-ui.js",
-    "themes/base/**/*"
+    "themes/base/**"
   ],
   "ignore": [],
   "dependencies": {
